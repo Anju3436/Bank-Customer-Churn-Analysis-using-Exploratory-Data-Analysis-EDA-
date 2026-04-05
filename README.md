@@ -2,6 +2,8 @@
 An Exploratory Data Analysis (EDA) project that analyzes bank customer data to identify patterns and factors influencing customer churn using Python, Pandas, Matplotlib, and Seaborn.
 🏦 Bank Customer Churn Analysis
 
+---
+
 📖 Overview
 
 Customer churn is a critical challenge in the banking industry, directly impacting revenue and customer lifetime value. This project performs an in-depth Exploratory Data Analysis (EDA) on a bank customer dataset to uncover patterns, trends, and key factors that contribute to customer attrition.
