@@ -7,6 +7,11 @@ An Exploratory Data Analysis (EDA) project that analyzes bank customer data to i
 🏦 Bank Customer Churn Analysis
 
 ---
+## 🌐 Live Project
+[Click here to view project](https://anju3436.github.io/Bank-Customer-Churn-Analysis-using-Exploratory-Data-Analysis-EDA-/)
+
+
+---
 
 📖 Overview
 
